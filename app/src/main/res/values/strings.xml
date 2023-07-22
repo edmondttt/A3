@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">quizApp</string>
+    <string name="hello_blank_fragment">Welcome to the QuizAPP</string>
+
+    <string-array name="question">
+        <item>The Great Wall of China is visible from space with the naked eye.</item>
+        <item>The Earth has only one natural satellite, known as the Moon.</item>
+        <item>Penguins can fly.</item>
+        <item>The Eiffel Tower is located in London.</item>
+        <item>The human brain stops growing after reaching adulthood.</item>
+        <item>The Sahara Desert is the largest desert in the world.</item>
+        <item>The Statue of Liberty was a gift from France to the United States.</item>
+        <item>The chemical symbol for water is Wt.</item>
+        <item>The Olympic Games are held every three years.</item>
+        <item>The human heart has four chambers.</item>
+    </string-array>
+    <string-array name="questionAns">
+        <item>True</item>
+        <item>True</item>
+        <item>False</item>
+        <item>False</item>
+        <item>True</item>
+        <item>True</item>
+        <item>True</item>
+        <item>False</item>
+        <item>False</item>
+        <item>True</item>
+
+    </string-array>
+
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/average"
+           android:icon="@drawable/ic_icon"
+           android:title="Get Average"
+           app:showAsAction="never"/>
+    <item android:id="@+id/numQuestion"
+        android:icon="@drawable/ic_icon"
+        android:title="Select the number of Questions"
+        app:showAsAction="never"/>
+    <item android:id="@+id/reset"
+        android:icon="@drawable/ic_icon"
+        android:title="Reset the saved Result"
+        app:showAsAction="never"/>
+</menu>

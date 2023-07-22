@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">測驗</string>
+    <string name="hello_blank_fragment">歡迎</string>
+
+    <string-array name="question">
+        <item>從太空用肉眼可以看到中國的長城。</item>
+        <item>地球只有一顆天然衛星，稱為月球。</item>
+        <item>企鵝會飛。</item>
+        <item>埃菲爾鐵塔位於倫敦。</item>
+        <item>人的大腦在成年後停止生長。</item>
+        <item>撒哈拉沙漠是世界上最大的沙漠。</item>
+        <item>自由女神像是法國送給美國的禮物。</item>
+        <item>水的化學符號是 Wt。</item>
+        <item>奧運會每三年舉行一次。</item>
+        <item>人的心臟有四個腔室。</item>
+    </string-array>
+    <string-array name="questionAns">
+        <item>True</item>
+        <item>True</item>
+        <item>False</item>
+        <item>False</item>
+        <item>True</item>
+        <item>True</item>
+        <item>True</item>
+        <item>False</item>
+        <item>False</item>
+        <item>True</item>
+
+    </string-array>
+</resources>
